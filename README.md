@@ -1,3 +1,3 @@
-# TPJeu-PointControle
-Première partie du TP pour le cours de Création de jeu 3D
-Itch password : TP_PC
+# Travail Pratique
+### Password Itch : TP_PC
+### Lien vers le jeu : https://s1v0lc.itch.io/tpjeu-3d
